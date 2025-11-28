@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f7f9;
+    margin: 20px;
+}
+.card {
+    background: white;
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 18px;
+    border-radius: 8px;
+    box-shadow: 0 4px 18px rgba(0,0,0,0.06);
+}
+h1 { margin-top: 0; }
+ul { padding-left: 18px; }
+.nav { margin: 12px 0; }
+.btn {
+    display: inline-block;
+    padding: 8px 12px;
+    background: #2b8a3e;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    margin-right: 8px;
+}
+.btn.danger { background: #c03434; }
+.form-actions { margin-top: 12px; }
+label { display: block; margin: 8px 0; }
+input[type="number"], select { padding: 6px; border-radius: 4px; border: 1px solid #ccc; }
+.result { margin-top: 14px; padding: 10px; background: #f7fff7; border-radius: 6px; }
+.error { color: #b00000; background: #ffecec; padding: 8px; border-radius: 6px; }
+table { width: 100%; border-collapse: collapse; margin-top: 12px; }
+table th, table td { border: 1px solid #e2e8f0; padding: 8px; text-align: left; font-size: 14px; }
+.note { margin-top: 12px; font-size: 14px; color: #333; }
+.muted { color: #555; font-size: 13px; }

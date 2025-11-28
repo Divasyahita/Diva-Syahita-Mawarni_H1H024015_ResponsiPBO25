@@ -1,0 +1,22 @@
+[
+    {
+        "timestamp": "2025-11-28T23:41:46+01:00",
+        "jenis": "Defense",
+        "intensity": 27,
+        "oldLevel": 5,
+        "newLevel": 8,
+        "oldHP": 45,
+        "newHP": 53,
+        "note": "Latihan Defense intensitas 27. (Tipe='Grass', pengaruh tipe: Grass >> Defense\/HP recovery)"
+    },
+    {
+        "timestamp": "2025-11-28T23:42:06+01:00",
+        "jenis": "Speed",
+        "intensity": 30,
+        "oldLevel": 8,
+        "newLevel": 10,
+        "oldHP": 53,
+        "newHP": 59,
+        "note": "Latihan Speed intensitas 30. (Tipe='Grass', pengaruh tipe: Grass >> Speed rendah)"
+    }
+]

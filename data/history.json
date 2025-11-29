@@ -78,5 +78,45 @@
         "oldHP": 90,
         "newHP": 97,
         "note": "Latihan Defense intensitas 21. (Tipe='Grass', pengaruh tipe: Grass >> Defense\/HP recovery)"
+    },
+    {
+        "timestamp": "2025-11-29T03:16:25+01:00",
+        "jenis": "Attack",
+        "intensity": 15,
+        "oldLevel": 18,
+        "newLevel": 19,
+        "oldHP": 97,
+        "newHP": 101,
+        "note": "Latihan Attack intensitas 15. (Tipe='Grass', pengaruh tipe: Grass >> Attack sedikit)"
+    },
+    {
+        "timestamp": "2025-11-29T03:16:41+01:00",
+        "jenis": "Defense",
+        "intensity": 23,
+        "oldLevel": 19,
+        "newLevel": 21,
+        "oldHP": 101,
+        "newHP": 108,
+        "note": "Latihan Defense intensitas 23. (Tipe='Grass', pengaruh tipe: Grass >> Defense\/HP recovery)"
+    },
+    {
+        "timestamp": "2025-11-29T03:39:38+01:00",
+        "jenis": "Defense",
+        "intensity": 6,
+        "oldLevel": 21,
+        "newLevel": 23,
+        "oldHP": 108,
+        "newHP": 112,
+        "note": "Latihan Defense intensitas 6. (Tipe='Grass', pengaruh tipe: Grass >> Defense\/HP recovery)"
+    },
+    {
+        "timestamp": "2025-11-29T03:39:50+01:00",
+        "jenis": "Speed",
+        "intensity": 29,
+        "oldLevel": 23,
+        "newLevel": 24,
+        "oldHP": 112,
+        "newHP": 117,
+        "note": "Latihan Speed intensitas 29. (Tipe='Grass', pengaruh tipe: Grass >> Speed rendah)"
     }
 ]

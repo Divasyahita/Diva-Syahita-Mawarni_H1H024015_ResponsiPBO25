@@ -34,6 +34,14 @@ Aplikasi **POKEMON** adalah project sederhana berbasis PHP yang menampilkan info
 
 ---
 
+## 🎥 Demo Aplikasi
+
+<p align="center">
+  <img src="https://github.com/Divasyahita/Diva-Syahita-Mawarni_H1H024015_ResponsiPBO25/blob/main/demo%20aplikasi.gif" width="70%" alt="Demo Aplikasi Pokémon"/>
+</p>
+
+---
+
 ## 🚀 Cara Menjalankan Aplikasi
 
 ### 🔹 Menggunakan XAMPP (Direkomendasikan)

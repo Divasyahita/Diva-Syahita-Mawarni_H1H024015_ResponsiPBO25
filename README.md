@@ -1,10 +1,9 @@
-# POKEMON — Simple PHP Project
+# POKEMON 
 
 > Aplikasi sederhana berbasis PHP yang menampilkan daftar Pokémon, menyimpan riwayat interaksi, dan menyediakan fitur latihan melalui antarmuka web.
 
 ---
 
-## 👤 Data Diri
 
 | Keterangan     | Isi                     |
 |----------------|--------------------------|
